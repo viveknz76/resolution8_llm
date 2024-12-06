@@ -1,0 +1,17 @@
+langchain-community
+langchain-ollama
+langchain-core
+langchain
+faiss-cpu
+transformers
+unstructured
+langchain-unstructured
+python-docx
+sentence-transformers
+langchain-huggingface
+streamlit
+chromadb
+flask
+langchain_postgres
+psycopg[binary]
+sentry-sdk

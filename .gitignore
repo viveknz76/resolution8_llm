@@ -1,0 +1,5 @@
+﻿venv
+resolution8
+.env
+.idea
+__pycache__
